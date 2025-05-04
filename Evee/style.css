@@ -1,0 +1,138 @@
+.navimg>img{
+    height: 38px;
+    width: 130px;
+}
+.navpara{
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+    font-size: medium;
+}
+.navbutton>button{
+    text-decoration: none;
+    background-color: azure;
+    border: none;
+    color: rgb(12, 173, 119);
+    /* font-weight: bold; */
+    font-size: large;
+    font-family: cursive;
+}
+.navbutton>button:hover{
+    font-size: larger;
+    background-color: rgb(241, 238, 233);
+}
+
+.navmain{
+    margin-left: 20px;
+    cursor: pointer;
+    font-family: cursive;
+}
+.navmain:hover{
+    background-color: rgb(12, 173, 119);
+}
+.lock{
+    position: fixed;
+    width: 100%;
+}
+/* section01 */
+.section1{
+    height: 780px;
+    /* margin-bottom: 80px; */
+    background-image: url(/Evee/1-2.jpg);
+    background-size: cover;
+}
+.task{
+    height: 400px;
+    width: 370px;
+}
+.task>h3{
+    padding-top: 250px;
+    padding-left: 20px;
+    color: rgb(12, 173, 119);
+    font-family: cursive;
+    
+}
+/* section2 */
+.task2{
+    height: 270px;
+    width: 100%;
+    background-color: rgb(241, 239, 237);
+}
+.task2>h1{
+    padding-top: 100px;
+    padding-left: 10px;
+    color: #16182d;
+    font-size: 41px;
+    letter-spacing: 3px;
+    font-family: cursive;
+}
+.task2{
+    display: flex;
+}
+.hp{
+    color: gray;
+}
+.arrow{
+    /* padding-left: 240px; */
+    padding-right: 0%;
+    padding-top: 5px;
+}
+/* section3 */
+.uperarea{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(241, 239, 237);
+    padding-top: 30px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.box1{
+    height: 600px;
+    width: 30%;
+    background-color: rgb(209, 230, 241);
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 2px;
+    border-color: rgb(65, 120, 101);
+    border-style: solid;
+    border-radius: 8px;
+}
+.part1{
+    border: 2px;
+    color: black;
+}
+.box1{
+    color: rgb(92, 90, 90);
+    font-weight: bold; 
+    box-shadow: 10px 10px 5px  gray;
+}
+.boxesmain{
+    display: flex;
+    margin-bottom: 50px;
+}
+.headingdetails{
+    color: black;
+    padding-top: 30px;
+}
+/* .details{
+    color: rgb(92, 90, 90);
+    font-weight: bold;
+} */
+.brealline{
+    color: gray;
+    width: 300px;
+}
+/* button */
+.btt{
+    background-color: rgb(34, 149, 34);
+    padding: 12px 22px 12px 22px;
+    margin-top: 15px;
+}
+.btt:hover{
+    background-color: aliceblue;
+    color:  rgb(34, 149, 34);
+}
+
+
+
+
